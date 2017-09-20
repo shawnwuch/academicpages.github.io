@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Factors Governing the Predicted Performance of Multilayered Metal-Mesh Screens"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 'This paper presents a systematic study that shows how the overlap between different mesh layers, the alignment of the protection and support layers, and the relative pore-size ratio, defined as the ratio of pore size of the protection/support layer to that of the filter layer, have a large impact on the sand-retention performance of an MMS. The pore-size distribution (PoSD) of multilayered plain-square-mesh (PSM) and plain-Dutch-weave (PDW) screens is calculated with a novel numerical technique. Influences of screen sintering, coupon sampling, and screen designs on the PoSD of a screen are modeled by varying the layer overlap, shifting the layer alignment, and modifying the design of the protection and support layers. The PoSD data are used as an input into an analytical model for evaluating sand production of PSM screens in slurry-type sand-retention tests (SRTs) for screen-design optimization.'
+date: 2017-04-03
+venue: 'SPE Drilling & Completion'
+paperurl: 'https://doi.org/10.2118/178955-PA'
+citation: 'Wu, C.-H., Sharma, M. M., Chanpura, R. et al. (2017). &quot;Factors Governing the Predicted Performance of Multilayered Metal-Mesh Screens.&quot; <i>SPE Drilling & Completion</i>.'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
