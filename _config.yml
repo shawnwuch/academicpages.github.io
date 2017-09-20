@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chu-Hsiang (Shawn) Wu / Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chu-Hsiang (Shawn) Wu"
 description              : &description "PhD candidate in Petroleum Engineering at the University of Texas at Austin"
@@ -66,7 +66,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: https://www.linkedin.com/in/chu-hsiang-shawn-wu-096a396a/ # An array of links to social media profiles
+  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shawn Wu"
+  name             : "Chu-Hsiang (Shawn) Wu"
   avatar           : "Picture1.png"
   bio              : "PhD candidate in Petroleum Engineering at the University of Texas at Austin"
   location         : "Austin, TX"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chu-hsiang-shawn-wu-096a396a/"
   orcid            : #"https://orcid.org/0000-0002-4377-6007"
   pinterest        :
   soundcloud       :
