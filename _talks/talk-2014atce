@@ -3,15 +3,15 @@ title: "Characterizing, Designing, and Selecting Metal Mesh Screens for Standalo
 collection: talks
 type: "Conference Presentation"
 permalink:
-excerpt: 'In this study we present a method for computing the proppant distribution into each cluster in a fracturing stage. By integrating proppant transport into a multi-cluster hydraulic fracturing model and implementing a simple screenout criterion, we show that the proppant distribution in a fracturing stage can be very uneven with a strong bias towards the heel-side clusters even when the initial fluid distribution is uniform among all clusters.
+excerpt: 'In this paper, we use computed tomography (CT) images of real screen coupons to construct 3D replicas of two metal-mesh screen (MMS) types: plain square mesh (PSM) and plain Dutch weave (PDW). An entirely computer-based method of creating 3D screen assemblies is also presented. The virtual screens were compared and validated against the ones generated from the CT images. We also conducted DEM simulations of pre-pack tests through these multi-layer MMS assemblies. The retention efficiency of MMSs for different particle sizes have been calculated for better slurry test modeling. We have shown that the effective size of MMS assemblies can be significantly lower than the nominal rating of the filter layer.
 
-- Paper url: <http://dx.doi.org/10.2118/184861-MS>
+- Paper url: <http://dx.doi.org/10.2118/170935-MS>
 
-- Recommended Citation: Wu, C.-H., Yi, S., Sharma, M. M. (2017). &quot;Proppant Distribution Among Multiple Perforation Clusters in a Horizontal Wellbore.&quot; Paper SPE-184861-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX, USA, 24–26 January.'
+- Recommended Citation: Mondal, S., Wu, C.-H., Sharma, M. M., Chanpura, R. A., Parlar, M., & Ayoub, J. A. 2014. Characterizing, Designing, and Selecting Metal Mesh Screens for Standalone-Screen Applications. Paper SPE-170935-PA was presented at the SPE Annual Technical Conference and Exhibition, Amsterdam, The Netherlands, 27–29 October.'
 
-venue: "2017 SPE Hydraulic Fracturing Technology Conference"
-date: 2017-01-24
+venue: "2014 SPE Annual Technical Conference and Exhibition"
+date: 2014-10-27
 location: "The Woodlands, TX, USA"
-paperurl: 'http://dx.doi.org/10.2118/184861-MS'
-citation: 'Wu, C.-H., Yi, S., Sharma, M. M. (2017). &quot;Proppant Distribution Among Multiple Perforation Clusters in a Horizontal Wellbore.&quot; Paper SPE-184861-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX, USA, 24–26 January.'
+paperurl: 'http://dx.doi.org/10.2118/170935-MS'
+citation: 'Mondal, S., Wu, C.-H., Sharma, M. M., Chanpura, R. A., Parlar, M., & Ayoub, J. A. 2014. Characterizing, Designing, and Selecting Metal Mesh Screens for Standalone-Screen Applications. Paper SPE-170935-PA was presented at the SPE Annual Technical Conference and Exhibition, Amsterdam, The Netherlands, 27–29 October.'
 ---
