@@ -9,7 +9,7 @@ excerpt: 'In this study we present a method for computing the proppant distribut
 
 - Recommended Citation: Wu, C.-H., Yi, S., Sharma, M. M. (2017). &quot;Proppant Distribution Among Multiple Perforation Clusters in a Horizontal Wellbore.&quot; Paper SPE-184861-MS was presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, TX, USA, 24–26 January.'
 
-venue: "2017 SPE Hydraulic Fracturing Technology Conference, 24–26 January"
+venue: "2017 SPE Hydraulic Fracturing Technology Conference"
 date: 2017-01-24
 location: "The Woodlands, TX, USA"
 paperurl: 'http://dx.doi.org/10.2118/184861-MS'
