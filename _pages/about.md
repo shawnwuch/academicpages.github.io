@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* 5th year PhD student in petroleum engineering at The University of Texas at Austin
+* 5th year PhD student in Petroleum and Geosystems Engineering at The University of Texas at Austin
 * Experienced in multi-phase flow physics, computational fluid dynamics (CFD), and discrete element method (DEM)
 * Team player, quick learner, highly adaptable, results-driven, prefer sustainable/long-term approach 
 * Optimistic and passionate about life, loves nature
-* Interests: physics, machine learning, automation, programming in python, open source projects, calisthenics and soccer
+* Interests: physics, programming, machine learning, open source projects, calisthenics and soccer
