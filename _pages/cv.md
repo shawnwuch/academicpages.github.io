@@ -17,17 +17,16 @@ Education
 
 Work experience
 ======
-* Aug.–Dec. 2016: Engineering Intern
-  * ExxonMobil Upstream Research Company
+* Engineering Intern, ExxonMobil Upstream Research Company, Spring, TX
+  * August–December 2016
   * Duties included: Develop numerical models for simulating cuttings/cavings transport in horizontal wells.
   
-
-* May-Aug. 2016: Engineering Intern
-  * Statoil
+* Engineering Intern, Statoil, Austin TX
+  * May-August 2016
   * Duties included: Investigate diverter transport behavior in fracturing operations.
-  
-* Apr. 2012–May 2013: Process Engineer
-  * Qualcomm MEMS Technologies
+
+* Process Engineer, Qualcomm MEMS Technologies, Longtan, Taiwan
+  * April 2012–May 2013
   * Duties included: Perform statistical process control on backend encapsulation tools.
 
   
