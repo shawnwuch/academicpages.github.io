@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Power Mechanical Engineering, National Tsing Hua University, Hsinchu, Taiwan 2008
+* M.S. in Mechanical Engineering, National Taiwan University, Taipei, Taiwan 2010
+* Ph.D in Petroleum Engineering, The University of Texas at Austin, Austin, TX 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug.–Dec. 2016: Engineering Intern
+  * ExxonMobil Upstream Research Company
+  * Duties included: Develop numerical models for simulating cuttings/cavings transport in horizontal wells.
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May-Aug. 2016: Engineering Intern
+  * Statoil
+  * Duties included: Investigate diverter transport behavior in fracturing operations.
+  
+* Apr. 2012–May 2013: Process Engineer
+  * Qualcomm MEMS Technologies
+  * Duties included: Perform statistical process control on backend encapsulation tools.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming/Scripting Languages
+  * C++, Python, Bash
+* Experimental Tools
+  * SEM, AFM, Confocal microscopy
+* Numerical Simulation Tools
+  * CFD-DEM for multi-phase flow simulation
+  * OpenFOAM, CFD-RC®, CFD-ACE+®, COMSOL® for computational fluid dynamics simulation
+  * LIGGGHTS (DEM) for granular mechanics simulation
+  * CMG® for reservoir simulation
+  * FracPro® for fracture simulation and analysis
+  * Saphir for pressure transient analysis 
+* Statistical and Computational Modeling Tools
+  * Scikit-learn, Pandas, Seaborn, Matlab, R
 
 Publications
 ======
@@ -48,12 +59,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+
+Services
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+1.	Technical Editor of SPE Journal, SPE Drilling and Completion, SPE Production and Operations, 2017-present
+2.	Volunteer experience: SPE translator, Nepal medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative.
+
