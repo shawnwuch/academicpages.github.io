@@ -27,7 +27,7 @@ Work experience
 
 * Process Engineer, Qualcomm MEMS Technologies, Longtan, Taiwan
   * April 2012–May 2013
-  * Duties included: Perform statistical process control on backend encapsulation tools.
+  * Duties included: Perform statistical process control for backend encapsulation tools.
 
   
 Skills
