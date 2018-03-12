@@ -33,7 +33,7 @@ Work experience
 Skills
 ======
 * Programming/Scripting Languages
-  * C++, Python, Bash
+  * C++, Python, MATLAB, Bash
 * Experimental Tools
   * SEM, AFM, Confocal microscopy
 * Numerical Simulation Tools
@@ -62,5 +62,5 @@ Talks
 Services
 ======
 1.	Technical Editor of SPE Journal, SPE Drilling and Completion, SPE Production and Operations, 2017-present
-2.	Volunteer experience: SPE translator, Nepal medical assistance group, cofounder of Taiwan Bio-Nano Youth Initiative.
+2.	Volunteer experience: SPE translator, Nepal medical assistance group, cofounder of Taiwan Bio-Nano Youth Educational Program.
 
