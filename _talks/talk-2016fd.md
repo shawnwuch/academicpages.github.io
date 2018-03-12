@@ -11,7 +11,7 @@ excerpt: 'This paper presents a systematic study that shows how the overlap betw
 
 venue: "2016 SPE International Conference and Exhibition on Formation Damage"
 date: 2016-02-24
-location: "Lafayette, Louisiana, USA"
+location: "Lafayette, LA, USA"
 
 paperurl: 'https://doi.org/10.2118/178955-MS'
 citation: 'Wu, C.-H., Sharma, M. M., Chanpura, R. et al. 2016. Factors Governing the Performance of Multilayered Metal-Mesh Screens. Paper SPE-178955-MS was presented at the SPE International Conference and Exhibition on Formation Damage, Lafayette, Louisiana, USA, 24–26 February.'

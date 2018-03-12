@@ -11,7 +11,7 @@ excerpt: 'This paper reviews the current practices in particle size distribution
 
 venue: "2014 SPE International Conference and Exhibition on Formation Damage"
 date: 2014-02-26
-location: "Lafayette, Louisiana, USA"
+location: "Lafayette, LA, USA"
 
 paperurl: 'http://dx.doi.org/10.2118/168152-MS'
 citation: 'Zhang, K., Chanpura, R. A., Mondal, S., Wu, C.-H., Sharma, M. M., Ayoub, J. A., & Parlar, M. 2014. Particle Size Distribution Measurement Techniques and Their Relevance or Irrelevance to Sand Control Design. Paper SPE-168152-MS was presented at the SPE International Conference and Exhibition on Formation Damage, Lafayette, Louisiana, USA, 26–28 February.'
